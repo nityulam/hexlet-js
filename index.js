@@ -1,5 +1,3 @@
-import _ from "lodash";
+import lastValue from "./src/index.js";
 
-console.log("Hello, World and Hexlet");
-
-console.log(_.last(["one", "two"]));
+console.log(lastValue);
