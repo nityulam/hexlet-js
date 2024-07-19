@@ -1,0 +1,1 @@
+a training file for creating a new branch and merging it with a non-main branch / файл для тренинга по созданию новой ветки и слияния ее с не основной веткой
